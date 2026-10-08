@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-31T18:07:28.7256265Z",
+      "content": "\"I still have a 50% hope that he is alive because there is an oxygen system inside,\" Sita Pandey, whose husband was working in the plant when the floods hit, told Nepalese daily Kantipur.\r\nNepal reli… [+1208 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Victoria Beckham's company makes its first profit after 18 years",
+      "description": "Beckham's fashion and beauty business makes a £7.3m operating profit after years of losses.",
+      "url": "https://www.bbc.co.uk/news/articles/cj645yl6d6do",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6918/live/636dc020-a55b-11f1-9acf-19576105f049.jpg",
+      "publishedAt": "2026-08-31T18:07:25.3827123Z",
+      "content": "That included tackling what Beckham admitted was \"mindblowing\" waste, including \"flying chairs from one side of the world to another\" and spending what NEO's David Belhassen said was \"70,000 a year\" … [+667 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "description": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-31T17:52:32.5237224Z",
+      "content": "The governor of the Bank of England has warned G20 finance ministers that artificial intelligence could cause a global economic downturn and pose a significant cyber security risk to financial system… [+2599 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
+      "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/024b/live/9dd0a660-a55b-11f1-9acf-19576105f049.jpg",
+      "publishedAt": "2026-08-31T17:52:23.3853822Z",
+      "content": "The celebrity lawyers hired to represent US musician D4vd in his upcoming murder trial have withdrawn from his case.\r\nThe star, whose legal name is David Anthony Burke, has been appointed a public de… [+1455 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Notting Hill Carnival revels in 60th anniversary celebrations",
+      "description": "Notting Hill Carnival, Europe's biggest street party, has celebrated its 60th year.",
+      "url": "https://www.bbc.co.uk/news/articles/c87vdj8j01xo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a42a/live/a21ff160-a55d-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-31T17:22:24.6639676Z",
+      "content": "For many traders, Monday's preparations began early.\r\nLorraine, from Luv Jerk, said her team began setting up at 02:00 BST in order to prepare for the day ahead. \r\n\"It is really hard work but it is r… [+758 chars]"
+    }
+  ]
+}
